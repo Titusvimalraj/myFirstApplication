@@ -762,12 +762,12 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\src\styles.css */"./src/styles.css");
-__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\node_modules\ngx-toastr\toastr.css */"./node_modules/ngx-toastr/toastr.css");
-__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\node_modules\@fortawesome\fontawesome-free\css\all.css */"./node_modules/@fortawesome/fontawesome-free/css/all.css");
-__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\node_modules\ng-pick-datetime\assets\style\picker.min.css */"./node_modules/ng-pick-datetime/assets/style/picker.min.css");
-module.exports = __webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
+__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\node_modules\ngx-toastr\toastr.css */"./node_modules/ngx-toastr/toastr.css");
+__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\node_modules\@fortawesome\fontawesome-free\css\all.css */"./node_modules/@fortawesome/fontawesome-free/css/all.css");
+__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\node_modules\ng-pick-datetime\assets\style\picker.min.css */"./node_modules/ng-pick-datetime/assets/style/picker.min.css");
+module.exports = __webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
 
 
 /***/ })

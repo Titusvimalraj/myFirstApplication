@@ -5788,8 +5788,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\src\polyfills.ts */"./src/polyfills.ts");
-module.exports = __webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\FrontEnd\real-time-to-do-list-app\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
+__webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! D:\Edwisor Project\ToDoListPlanner\gitupload\real-time-to-do-list-app\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
 
 
 /***/ })
